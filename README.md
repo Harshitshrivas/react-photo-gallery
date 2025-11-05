@@ -71,9 +71,9 @@ https://picsum.photos/v2/list?page=2&limit=100
 ## 🧡 Author
 
 # 👨‍💻 Name
-# Harshit Shrivas
+- Harshit Shrivas
 # 🎓 About
-# Computer Science & Engineering | Aspiring Software Developer
+- Computer Science & Engineering | Aspiring Software Developer
 # 🌐 GitHub Profile
 ```bash
 https://github.com/Harshitshrivas
