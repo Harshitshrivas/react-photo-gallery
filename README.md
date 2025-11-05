@@ -61,8 +61,8 @@ https://picsum.photos/v2/list?page=2&limit=100
 ---
 ## 🧠 Learning Highlights
 
- -🧩 How to use Axios for API integration
- -⚙️ Managing data with useState and useEffect
+- 🧩 How to use Axios for API integration
+- ⚙️ Managing data with useState and useEffect
 - 🧱 Creating reusable components in React
 - 🔁 Implementing Pagination in React
 - 🎨 Styling with Tailwind CSS utility classes
@@ -71,9 +71,9 @@ https://picsum.photos/v2/list?page=2&limit=100
 ## 🧡 Author
 
 # 👨‍💻 Name
-Harshit Shrivas
+# Harshit Shrivas
 # 🎓 About
-Computer Science & Engineering | Aspiring Software Developer
+# Computer Science & Engineering | Aspiring Software Developer
 # 🌐 GitHub Profile
 ```bash
 https://github.com/Harshitshrivas
@@ -83,8 +83,8 @@ https://github.com/Harshitshrivas
 ## 📜 License
 
 # 📂 License Type
-MIT License
+- MIT License
 
 # 📄 Description
-This project is open-source and available for everyone to use and modify under the MIT License.
+- This project is open-source and available for everyone to use and modify under the MIT License.
 
