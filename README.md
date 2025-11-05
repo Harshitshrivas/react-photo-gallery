@@ -61,11 +61,11 @@ https://picsum.photos/v2/list?page=2&limit=100
 ---
 ## 🧠 Learning Highlights
 
-# 🧩 How to use Axios for API integration
-# ⚙️ Managing data with useState and useEffect
-# 🧱 Creating reusable components in React
-# 🔁 Implementing Pagination in React
-# 🎨 Styling with Tailwind CSS utility classes
+ -🧩 How to use Axios for API integration
+ -⚙️ Managing data with useState and useEffect
+- 🧱 Creating reusable components in React
+- 🔁 Implementing Pagination in React
+- 🎨 Styling with Tailwind CSS utility classes
 ---
 
 ## 🧡 Author
